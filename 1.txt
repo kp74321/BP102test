@@ -1,14 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-	<meta charset="UTF-8">
-	<title>Document</title>
-</head>
-<body>
 
-	<h1>1.今天天氣不好master</h1>
-	<p>2.這是新功能master</p>	
-	<p>3.FastRunmaster</p>
-
-</body>
-</html>
+	1.今天天氣不好master
+	2.這是新功能master
+	3.FastRunmaster
